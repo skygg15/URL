@@ -1,0 +1,52 @@
+1. Урл первый - http://dodopizza.ru/moscow?product=000D3A24D2B7A94311E8AF7D16D63A0D#pizzas
+
+Хост: http://dodopizza.ru
+Порт: 80
+Путь: /moscow?
+Квери 1: product=000D3A24D2B7A94311E8AF7D16D63A0D
+Квери 2:
+…(тут остальные квери)
+Якорь: pizzas
+
+2. Урл второй -   https://pokemonbattle.me:5000/pokemons?status=1&in_pokeball=1
+
+Хост: https://pokemonbattle.me:5000
+Порт: 443
+Путь: /pokemons
+Квери 1: status=1
+Квери 2: in_pokeball=1
+…(тут остальные квери)
+Якорь: нет
+
+3. Урл третий - https://www.instagram.com/p/CU0GwIAjrNu
+
+Хост: https://www.instagram.com
+Порт: 443
+Путь: /p/CU0GwIAjrNu
+Квери 1: нет
+Квери 2: нет
+…(тут остальные квери)
+Якорь: нет
+
+4.Урл четвёртый- https://www.avito.ru/moskva/predlozheniya_uslug?q=репетитор+по+английскому&s=2
+
+Хост: https://www.avito.ru
+Порт: 443
+Путь: moskva/predlozheniya_uslug
+Квери 1: q=репетитор+по+английскому Квери 2: s=2
+…(тут остальные квери)
+Якорь: нет
+
+5.Урл пятый -
+
+https://www.ozon.ru/product/kamera-velosmile-dlya-vatrushki-tyubinga-rf-105-110-115-sm-r15-195-s-garantiey-200473900/?asb=WB5DQ&keywords=%D0%BA%D0%B0A%D0%B8&sh=_i7JTAAAAA
+
+Хост: https://www.ozon.ru/
+Порт: 443
+Путь: product/kamera-velosmile-dlya-vatrushki-tyubinga-rf-105-110-115-sm-r15-195-s-garantiey-200473900
+Квери 1: asb=WB5DQ Квери 2: keywords=%D0%BA%D0%B0A%D0%B8 Квери 3: `sh=_i7JTAAAAA`
+…(тут остальные квери)
+Якорь: нет
+
+6.1 https://search.edadeal.io/api/v2/search?addContent=true&groupByMeta=true&maxShops=0&miniOfferEcomColor=blue&numdoc=5&page=1&text=бананы&useClickdaemon=true&useFallbackQuery=true&useMisspeller=true ?geoId=2&
+
